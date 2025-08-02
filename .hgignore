@@ -1,0 +1,12 @@
+syntax: glob
+
+# Python
+backend/venv/
+**/__pycache__/
+**/*.pyc
+**/*.py[co]
+
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
